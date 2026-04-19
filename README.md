@@ -9,6 +9,8 @@ Abstraction: The Main class only interacts with simple method calls. The complex
 
 Classes & Objects: The Library class acts as a blueprint, while libSystem is the actual object (instance) that stores the data during runtime.
 
+ArrayList: The program uses arraylist to show the information. 
+
 Modularity: The program is divided into distinct sections—User Interface (Main) and Data Logic (Library)—making it easier to read and maintain.
 
 * Functionality
